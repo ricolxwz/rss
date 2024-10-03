@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Fri, 04 Oct 2024 07:59:32 +1000</dateCreated>
+  </head>
+  <body>
+    <outline text="📰 传统媒体">
+      <outline text="第一财经 - 头条" type="rss" xmlUrl="https://rsshub.ricolxwz.io/yicai/headline" htmlUrl="https://www.yicai.com/" description="第一财经 - 头条 - Powered by RSSHub"/>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Fri, 04 Oct 2024 07:59:32 +1000</dateCreated>
+  </head>
+  <body>
+    <outline text="🧖‍♂️ 社交媒体">
+      <outline text="Project X Channel - Telegram Channel" type="rss" xmlUrl="https://rsshub.ricolxwz.io/telegram/channel/projectXtls" htmlUrl="https://t.me/s/projectXtls" description="Project X 的频道。Xray 是 v2ray 的超集，含更好的整体性能和 XTLS 等一系列增强，且完全兼容 v2ray-core 的功能及配置。“配置兼容，整体更好”中文群组：https://t.me/projectXrayNon-Chinese: https://t.me/projectVlesshttps://github.com/XTLS - Powered by RSSHub"/>
+      <outline text="TestFlight 在花频道📮投稿 - Telegram Channel" type="rss" xmlUrl="https://rsshub.ricolxwz.io/telegram/channel/TestFlightCN" htmlUrl="https://t.me/s/TestFlightCN" description="【莫談國事】• 禁止推广/黑产/刷屏/色情/NSFW• 禁止黄赌毒/宗教/政治/键政• 禁止撕逼/人身攻击/阴阳怪气意见反馈 @lianxiglbot编辑/侵权/群组/解封 @lianxiglbothttps://tg.istore.app/ - Powered by RSSHub"/>
+      <outline text="Yummy 😋 - Telegram Channel" type="rss" xmlUrl="https://rsshub.ricolxwz.io/telegram/channel/GodlyNews1" htmlUrl="https://t.me/s/GodlyNews1" description="📰 本频道不定期推送科技数码类新资讯，欢迎关注！ ©️ 发布的内容不代表本频道立场，和你意见不一样的话欢迎在评论区留言表达，但请注意言辞，面斥不雅。 🔗 博客: https://yummy.best 💬 群组: @GodlyGroup 📬 投稿: @GodlyNewsBot 🪧 广告合作： @yummybest_bot. - Powered by RSSHub"/>
+      <outline text="校长读报 - Telegram Channel" type="rss" xmlUrl="https://rsshub.ricolxwz.io/telegram/channel/XiaoZhangDuBao" htmlUrl="https://t.me/s/XiaoZhangDuBao" description="多读书 多看报 感谢关注 感谢赞赏 - Powered by RSSHub"/>
+      <outline text="风向旗参考快讯 - Telegram Channel" type="rss" xmlUrl="https://rsshub.ricolxwz.io/telegram/channel/xhqcankao" htmlUrl="https://t.me/s/xhqcankao" description="风闻奏事，遍查访知。提供互联网科技新闻快讯。发布VPS、网盘等有价值虚拟资产的新闻和交易信息。⚡️本频道谢绝任何政治频道转发消息，避免我们的评论区火药味变得更重。本频道鼓励包容友好的交流方式，提倡发表高质量有意义的评论内容。🏛 评论请遵守规则：https://t.me/xhq_rule/10 📬 意见箱：https://forms.gle/KX44az6NpDiMRbsJ6🏆 合作咨询：https://t.me/HelloGeorge_Bot - Powered by RSSHub"/>
+      <outline text="🥳靠谱VPS推荐(默认带aff） - VPS仓/古博 - Telegram Channel" type="rss" xmlUrl="https://rsshub.ricolxwz.io/telegram/channel/vpscang" htmlUrl="https://t.me/s/vpscang" description="VPS推荐, VPS仓补货等信息. 默认所有信息都带aff == 网站: VPS推荐: www.gubo.orgVPS大全: www.vpscang.comVPS信息(自行甄别): offers.vpscang.com群组: @guboorg本频道仅限亲测的商家. 有需要新上商家或者促销信息请看 @liyuans (需自行甄别风险) - Powered by RSSHub"/>
+    </outline>
+  </body>
+</opml>
