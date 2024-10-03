@@ -6,6 +6,7 @@
   </head>
   <body>
     <outline text="🃏️ 开发者">
+      <outline text="麦旋风超好吃" type="rss" xmlUrl="https://blog.ricolxwz.de/index.xml" htmlUrl="https://blog.ricolxwz.de"/>
       <outline text="AARON" type="rss" xmlUrl="http://ngaaron.com/feed" htmlUrl="https://www.ngaaron.com"/>
       <outline text="After 27" type="rss" xmlUrl="https://www.after27.me/blog?format=rss" htmlUrl="https://www.after27.me/"/>
       <outline text="Aisin Von:记录我的互联网生活！" type="rss" xmlUrl="http://feeds.feedburner.com/twetw" htmlUrl="https://geek100.com/"/>
